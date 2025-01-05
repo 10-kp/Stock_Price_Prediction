@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/26b2404d-e4a0-42e5-bce3-87e27ba92003)# Stock_Price_Prediction
+# Stock Price Prediction
 This project predicts stock prices using a combination of Linear Regression and advanced modeling techniques (Random Forest). It integrates multiple stocks and technical indicators for a comprehensive analysis.
 
 ## Features
